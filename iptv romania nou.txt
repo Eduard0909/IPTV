@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1, Antena 1
+https://canale.live/antena/a.m3u8/?id=a1
+#EXTINF:-1, ProTv
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/DT7DYe-n2r0iUKB1YInaBg==,1616011728/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, Pro 2
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/llPs6zQ9Ov5kZCp1OKs-JA==,1616011690/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, Pro X
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/KDMtLdB_4jsgknfsZM_4fQ==,1616011883/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, Pro Cinema
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/t4Nu7gUSjMUtaF2ItEE3Og==,1616011849/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, Pro Gold
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/BM05o0PIKH3PEKVsh_V6sQ==,1616011694/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, Telekom Sport 1
+https://goool7.ws/lba/NmU3NWRmOWY3ZTFlOWM0NjgxNjU0YjhjZTA2YjAzMTc=/g3/ds1ro.m3u8?token=NmU3NWRmOWY3ZTFlOWM0NjgxNjU0YjhjZTA2YjAzMTc=&id=NjY5ZmI4OTI1ZjRjMTFjMmQwOTRiOWEwNmVkOWQ2Nzc=&vip=1615996094&dip=ODY3MmRlNmIwMWFlMTY5ODNiZjNhYWFiMzJlYmFhMTE=&pip=OGNlNWE3MjQ5NGVmOTk1MjBiZWQ0ZTBhOGE2MzJiMjE=&hip=MTM4Y2ZmYjliZTUyOGI4ODY2YWFlMzA0NzhkMDc2MzU=
+#EXTINF:-1, Telekom Sport 2
+https://x.wmsxx.com:30443/live/spstreamdolce2/chunks.m3u8?nimblesessionid=57019617&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIxIDU6NTE6MjEgUE0maGFzaF92YWx1ZT1wL21qNDVzME9CRjhmZytKY3psYTJ3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1, Telekom Sport 3
+https://hls.ustream.to/Digi-Sport-3.m3u8?token=2b8-82d-590-682-00b-26c-e68-e4d-8b9-fbe-df4-268-eab-975-be4-fb6-5d7-b60-472-d20-23a-2-a5d-d1c-e8t-f6c
+#EXTINF:-1, Telekom Sport 4
+https://x.wmsxx.com:30443/live/spstreamd4/chunks.m3u8?nimblesessionid=57023862&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIxIDU6NTY6MDkgUE0maGFzaF92YWx1ZT0wYytsb3dCbllEVXAyRlo2bUwvT013PT0mdmFsaWRtaW51dGVzPTEyMA==
+
