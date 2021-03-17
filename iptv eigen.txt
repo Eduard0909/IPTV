@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8?m=1584188161
+#EXTINF:-1, ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
+#EXTINF:-1, ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8?m=1584188210
+#EXTINF:-1, ORF Sport +
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8?m=1584185206
+#EXTINF:-1, ProSieben 7
+https://s1.hopslan.com/pro7/tracks-v1a1/mono.m3u8?token=95c5c0ce88c9b9496fcc7f5c0fb6dd0406776690-54511bc3f15b5d8bb06a5e7a65153c85-1615845242-1615834442
+#EXTINF:-1, RTL 1
+https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8?token=f2c8993b2542a51149a9826151f819aa3f902ae6-26a1cba28638c4f41c9327203d7c76bb-1615845459-1615834659
+#EXTINF:-1, RTL 2
+https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Kabel 1
+https://s1.hopslan.com/kabel1/tracks-v1a1/mono.m3u8?token=a4b7c07f706229880b8d344aea25f16e86386406-2dfa99d8811e1f98c81e9442c8250859-1615845599-1615834799
+#EXTINF:-1, Sat 1
+https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8?token=79541ec3e6d41dc14a228b88b0f501adf6075755-7923695c1c221c527038b6e014628ed1-1615845674-1615834874
+#EXTINF:-1, Sixx
+https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8?token=f9b8486aac6b5be177b10910c3e66bb2ec958e71-7ec0c6419d8b97bedad15fe251010101-1615845734-1615834934
+#EXTINF:-1, DMAX
+https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8?token=ed96bf136a51133a55849d3df1cf01ecf1c33f13-58e662d91f4726c5d40aa695af6851ea-1615845783-1615834983
+#EXTINF:-1, Sky Sport News
+https://websitefreestreaming.akamaized.net/11111_ssnweb/stream07/streamPlaylist.m3u8
+#EXTINF:-1, 7Maxx
+https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Kabel 1 Doku
+https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Tele 5
+https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Welt
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, ZDF
+https://s1.hopslan.com/zdf/tracks-v1a1/mono.m3u8?token=ffcf9d5a3faeeff183a696772d71f9a79513cc6b-af693e47be2364ccebf217552f92fe7d-1615846214-1615835414
+#EXTINF:-1, ZDF Neo
+https://s1.hopslan.com/zdfneo/tracks-v1a1/mono.m3u8?token=64a0857a2c9f085bb9da35348347f7a6a096bd6a-66130070b9a8324455ea5786a7b02e3d-1615846267-1615835467
+#EXTINF:-1, ARD 1
+https://s1.hopslan.com/ard/tracks-v1a1/mono.m3u8?token=d70339a7ae5e0cdea46977e325a93c7421dbc505-230839f840f530a5cef00de2b16bd8b4-1615846329-1615835529
+#EXTINF:-1, NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master_270.m3u8
+ 
+ 
