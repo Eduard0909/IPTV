@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,DE|SKY SPORT NEWS HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/83174
 #EXTINF:-1,DE|SKY SPORT 1
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/83173
 #EXTINF:-1,DE|SKY SPORT 1 HD
